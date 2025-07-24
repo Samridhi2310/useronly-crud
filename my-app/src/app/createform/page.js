@@ -102,7 +102,8 @@ function Createform() {
         onSubmit={handleSubmit}
         className="bg-gray-300 w-full md:w-1/2 mx-auto space-y-4 p-6 rounded"
       >
-        <h1 className="text-xl font-bold text-center">USER FORMSSSS feature</h1>
+        <h1 className="text-xl font-bold text-center">mera form
+        </h1>
         <input
           placeholder="Name"
           className="p-2 block w-full border border-gray-500 rounded"
